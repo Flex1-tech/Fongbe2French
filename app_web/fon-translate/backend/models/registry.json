@@ -1,0 +1,4 @@
+[
+  {"id": "seq2seq_lstm", "name": "Seq2Seq LSTM", "architecture": "LSTM sans attention", "checkpoint": "seq2seq_lstm.pt", "bleu": null, "chrf": null},
+  {"id": "seq2seq_attention", "name": "Seq2Seq Attention", "architecture": "LSTM avec attention", "checkpoint": "seq2seq_attention.pt", "bleu": null, "chrf": null}
+]
