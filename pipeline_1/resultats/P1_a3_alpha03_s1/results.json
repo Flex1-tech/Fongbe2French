@@ -1,0 +1,17 @@
+{
+  "pipeline": "P1",
+  "arch": "a3",
+  "seed": 1,
+  "params": 7541920,
+  "arret": "early stopping",
+  "meilleure_maj": 13000,
+  "meilleur_val_loss": 3.9394,
+  "epochs_faites": 19,
+  "bleu_val": 3.97,
+  "chrf_val": 21.09,
+  "minutes_total": 14.78,
+  "minutes_pour_meilleur_point": 11.92,
+  "secondes_par_epoch": 46.4,
+  "plafond_temps_propose_min": 17.9,
+  "conseil_epochs": "garder la valeur actuelle"
+}
